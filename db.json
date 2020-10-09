@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "car": "swift",
+      "model": "2009",
+      "price": 30000
+    },
+    {
+      "id": 2,
+      "car": "BMW",
+      "model": "2010",
+      "price": 35000
+    },
+    {
+      "id": 3,
+      "car": "I10",
+      "model": "2011",
+      "price": 40000
+    },
+    {
+      "id": 4,
+      "car": "i20",
+      "model": "2012",
+      "price": 45000
+    },
+    {
+      "id": 5,
+      "car": "creata",
+      "model": "2013",
+      "price": 50000
+    },
+    {
+      "id": 6,
+      "car": "Renault",
+      "model": "2014",
+      "price": 55000
+    },
+    {
+      "id": 7,
+      "car": "Audi",
+      "model": "2020",
+      "price": 75000
+    }
+  ]
+}
